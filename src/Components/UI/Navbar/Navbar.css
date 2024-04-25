@@ -1,0 +1,8 @@
+.ul-nav{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    list-style: none;
+    font-size: 1.5rem;
+    text-shadow: .3rem .3rem .2rem black;
+}

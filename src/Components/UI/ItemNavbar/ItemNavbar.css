@@ -1,0 +1,18 @@
+li{
+    transition: 0.2s;
+}
+
+li:hover{
+    transform: scale(1.1);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+a:hover{
+    color:cadetblue;
+    color: #ff9068;
+}
